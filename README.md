@@ -1,8 +1,12 @@
 # part1-chapter8
-나만의 앨범 구현 코드
+나만의 앨범 구현 
 
-# 7 나만의 갤러리
----
+<img src="https://user-images.githubusercontent.com/24618293/199804174-c1b39ac8-2b7b-4af9-abcd-157e1399dafc.gif" width="300">
+
+<img src="https://user-images.githubusercontent.com/24618293/199804389-afc8058a-f2e5-419c-9649-decaa26cfb4d.gif" width="300">
+
+<img src="https://user-images.githubusercontent.com/24618293/199804539-1e6e0aad-564d-477e-80bb-7b32c7145221.gif" width="300">
+
 
 # 개요
 
